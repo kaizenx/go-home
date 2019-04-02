@@ -1,0 +1,448 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJ8YYGf1VIzDERvy5GuHp6pj8",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJk_tV-xFIzDERxzbINXxItSs",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 3.1815203,
+          "lng": 101.6904514
+        },
+        "southwest": {
+          "lat": 3.146637,
+          "lng": 101.651717
+        }
+      },
+      "copyrights": "Map data ©2019 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "9.3 km",
+            "value": 9267
+          },
+          "duration": {
+            "text": "13 mins",
+            "value": 786
+          },
+          "end_address": "Jalan Sentul Indah, Sentul, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+          "end_location": {
+            "lat": 3.1809486,
+            "lng": 101.6904514
+          },
+          "start_address": "Bukit Damansara, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+          "start_location": {
+            "lat": 3.1490811,
+            "lng": 101.6534175
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 120
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 55
+              },
+              "end_location": {
+                "lat": 3.1491434,
+                "lng": 101.6539861
+              },
+              "html_instructions": "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eJalan Medan Setia 2\u003c/b\u003e toward \u003cb\u003eJalan Medan Setia\u003c/b\u003e",
+              "polyline": {
+                "points": "w`fR{dmkRSo@e@{AXGFPJN"
+              },
+              "start_location": {
+                "lat": 3.1490811,
+                "lng": 101.6534175
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 232
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 46
+              },
+              "end_location": {
+                "lat": 3.1485559,
+                "lng": 101.6520088
+              },
+              "html_instructions": "Merge onto \u003cb\u003eJalan Medan Setia\u003c/b\u003e",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "cafRmhmkRXbAhA~DHZFP@N@H?P?TEV"
+              },
+              "start_location": {
+                "lat": 3.1491434,
+                "lng": 101.6539861
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 523
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 85
+              },
+              "end_location": {
+                "lat": 3.1498106,
+                "lng": 101.654677
+              },
+              "html_instructions": "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJalan Setia Murni\u003c/b\u003e",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "o}eRa|lkRQREFIDMHE@SFG@K@cAMQCa@M[MOKe@_@SUQSYg@KWO_@K_@EYCOAO?Q?a@Fc@HYLc@LWHO^i@JKJGLGJEJCJC"
+              },
+              "start_location": {
+                "lat": 3.1485559,
+                "lng": 101.6520088
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 678
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 83
+              },
+              "end_location": {
+                "lat": 3.1476704,
+                "lng": 101.6597471
+              },
+              "html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Setiabudi\u003c/b\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "iefRwlmkRPMLKFGDIFKDKHg@?_ABw@@{@DWH{@DaA?kABcB?eA@[B]B]Jm@DOFOFKPSPQPOTIvBu@NGNEt@S"
+              },
+              "start_location": {
+                "lat": 3.1498106,
+                "lng": 101.654677
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 125
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 3.1481562,
+                "lng": 101.6607075
+              },
+              "html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Beringin\u003c/b\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}weRmlnkR?O@M?I?IAIAKQUY_@]g@AASW"
+              },
+              "start_location": {
+                "lat": 3.1476704,
+                "lng": 101.6597471
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "28 m",
+                "value": 28
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 2
+              },
+              "end_location": {
+                "lat": 3.1482493,
+                "lng": 101.6609415
+              },
+              "html_instructions": "Take the ramp on the \u003cb\u003eright\u003c/b\u003e to \u003cb\u003eJalan Duta\u003c/b\u003e/\u003cb\u003eKuala Lumpur\u003c/b\u003e",
+              "polyline": {
+                "points": "_{eRmrnkRQm@"
+              },
+              "start_location": {
+                "lat": 3.1481562,
+                "lng": 101.6607075
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 km",
+                "value": 443
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 3.1504786,
+                "lng": 101.6640435
+              },
+              "html_instructions": "Merge onto \u003cb\u003eDamansara Link\u003c/b\u003e/\u003cb\u003eLebuhraya SPRINT\u003c/b\u003e/\u003cb\u003eSistem Penyuraian Trafik Kuala Lumpur Barat\u003c/b\u003e/\u003cb\u003eE23\u003c/b\u003e",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "q{eR{snkRc@g@k@o@o@k@e@a@a@[CCi@c@sAgAQOIGEEEGGIMUGSEOEOESAQEqAA[COAGKS"
+              },
+              "start_location": {
+                "lat": 3.1482493,
+                "lng": 101.6609415
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.9 km",
+                "value": 867
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 56
+              },
+              "end_location": {
+                "lat": 3.1516785,
+                "lng": 101.6711912
+              },
+              "html_instructions": "\u003cb\u003eDamansara Link\u003c/b\u003e/\u003cb\u003eLebuhraya SPRINT\u003c/b\u003e/\u003cb\u003eSistem Penyuraian Trafik Kuala Lumpur Barat\u003c/b\u003e/\u003cb\u003eE23\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eJalan Semantan\u003c/b\u003e",
+              "polyline": {
+                "points": "oifRggokRU[[e@aA}D_@mACIEOGYI]CWAQAS?QAE?I@E?I@I@I@IBMDOHOFOP[b@u@@AXm@\\s@DUJa@@Q@K?O?g@AMESCOCIIUSi@_@eAm@aBUm@[w@Sc@O]MY"
+              },
+              "start_location": {
+                "lat": 3.1504786,
+                "lng": 101.6640435
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 km",
+                "value": 617
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 3.1528025,
+                "lng": 101.6731281
+              },
+              "html_instructions": "Take the exit on the \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eK. Lumpur\u003c/b\u003e/\u003cb\u003eJln. Parlimen\u003c/b\u003e/\u003cb\u003ePWTC\u003c/b\u003e",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "_qfR}spkRAI?A?CGMEKM]c@gAq@iBMa@EICEQ_@OYCCGMYa@GIQSSSSSQMWMIEIAGAEAMAI?I@G@E@G@IBEBEDEDEDCFCDELCLAH?H@J@HBFDJDFFFDDLFJDDBF?D@L?J?HAJCFAHCZMLGHEJGFABAB@B?B@D@"
+              },
+              "start_location": {
+                "lat": 3.1516785,
+                "lng": 101.6711912
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 km",
+                "value": 690
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 50
+              },
+              "end_location": {
+                "lat": 3.1479968,
+                "lng": 101.6769808
+              },
+              "html_instructions": "Merge onto \u003cb\u003eJalan Tuanku Abdul Halim\u003c/b\u003e",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "_xfRa`qkRlAw@bCwAxDsBj@]ZQd@UlAm@VQROj@g@^a@fAkAvAaBV[V]VYV["
+              },
+              "start_location": {
+                "lat": 3.1528025,
+                "lng": 101.6731281
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 km",
+                "value": 514
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 32
+              },
+              "end_location": {
+                "lat": 3.1477604,
+                "lng": 101.6806888
+              },
+              "html_instructions": "Take the exit toward \u003cb\u003ePWTC\u003c/b\u003e/\u003cb\u003eJln. Parlimen\u003c/b\u003e/\u003cb\u003eJln. Tun Razak\u003c/b\u003e/\u003cb\u003eJln. Kuching\u003c/b\u003e/\u003cb\u003eDataran Merdeka\u003c/b\u003e",
+              "maneuver": "ramp-left",
+              "polyline": {
+                "points": "_zeRcxqkR@E@C@C@CPShAoAX[X]\\c@Zc@PYFOFOFMDOBOBMBQ@M@S?YAM?MAMEUEOGSEKEKIMGOOOSUKMMKOMQOOI{@g@"
+              },
+              "start_location": {
+                "lat": 3.1479968,
+                "lng": 101.6769808
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.4 km",
+                "value": 2362
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 149
+              },
+              "end_location": {
+                "lat": 3.16615,
+                "lng": 101.6859679
+              },
+              "html_instructions": "Keep \u003cb\u003eleft\u003c/b\u003e at the fork, follow signs for \u003cb\u003eBukit Tunku\u003c/b\u003e/\u003cb\u003eJalan Kuching\u003c/b\u003e/\u003cb\u003eKuantan\u003c/b\u003e/\u003cb\u003ePWTC\u003c/b\u003e and merge onto \u003cb\u003eLebuhraya Sultan Iskandar\u003c/b\u003e",
+              "maneuver": "fork-left",
+              "polyline": {
+                "points": "oxeRiorkRG?E?AAWIMCECKCWGe@KOCKCKAGAIAMAG?IAG?O@Q?M@_@BO@U@QBOBI@]HcB^y@Ry@Tk@Pg@Ls@T]De@N]FWDi@Fo@D_@@e@?UAE?}@G_@Ea@EOAKAMAMAUC]GUEq@Q_@M[I_@I[E[GUAQC]A}@Ey@CmAGc@EWCUCUCIAICUESEICWIUE]MMEOGkAe@k@_@a@[a@[[[WYUYQWGKQ_@Ug@M_@COEQAI?K@Sa@oBKc@I[?AISMYUc@MUMOKMMOm@g@UOYO]O[I_@K_@G[Ci@Ce@?a@?gABmDN{ABg@Ai@CKAMAk@GcAWQGYIs@YSKWMUQ"
+              },
+              "start_location": {
+                "lat": 3.1477604,
+                "lng": 101.6806888
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.1 km",
+                "value": 101
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 3.1669957,
+                "lng": 101.6863069
+              },
+              "html_instructions": "Take the exit toward \u003cb\u003eE8\u003c/b\u003e/\u003cb\u003eGenting Highlands\u003c/b\u003e/\u003cb\u003eGombak\u003c/b\u003e/\u003cb\u003eAmpang\u003c/b\u003e/\u003cb\u003eE33\u003c/b\u003e/\u003cb\u003eUlu Kelang\u003c/b\u003e/\u003cb\u003eSetiawangsa\u003c/b\u003e/\u003cb\u003eJln. Semarak\u003c/b\u003e",
+              "maneuver": "ramp-left",
+              "polyline": {
+                "points": "mkiRipskRcA]YIWIUG]I"
+              },
+              "start_location": {
+                "lat": 3.16615,
+                "lng": 101.6859679
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1.7 km",
+                "value": 1695
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 89
+              },
+              "end_location": {
+                "lat": 3.1810744,
+                "lng": 101.6886076
+              },
+              "html_instructions": "Keep \u003cb\u003eright\u003c/b\u003e at the fork, follow signs for \u003cb\u003eSentul Link\u003c/b\u003e/\u003cb\u003eSentul\u003c/b\u003e/\u003cb\u003eBandar Baru Sentul\u003c/b\u003e/\u003cb\u003eJln. Gombak\u003c/b\u003e",
+              "maneuver": "fork-right",
+              "polyline": {
+                "points": "wpiRmrskRWGKCO?M?Q?S@O@SDQDSF_DzAu@^]L[JQDKDIBK@K@K@O@U@]?WAw@CW@G?G?I@K@G@SDUDaAVODQD[Fc@Ha@Dq@Fi@Di@@q@?o@?q@Cc@Ei@GqB]u@Sg@OoAe@sCeAu@[c@M}@Uc@OsB{@IC]QOIa@Sy@e@{@_@OIkAg@m@YcCaAeAc@GCy@]k@U]QMI[U"
+              },
+              "start_location": {
+                "lat": 3.1669957,
+                "lng": 101.6863069
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 km",
+                "value": 208
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 17
+              },
+              "end_location": {
+                "lat": 3.1815203,
+                "lng": 101.6903925
+              },
+              "html_instructions": "Continue onto \u003cb\u003eJalan Enam\u003c/b\u003e",
+              "polyline": {
+                "points": "uhlRy`tkRCAMMIMGMEIG]Gi@Eu@AYOcBC]CS"
+              },
+              "start_location": {
+                "lat": 3.1810744,
+                "lng": 101.6886076
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "64 m",
+                "value": 64
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 32
+              },
+              "end_location": {
+                "lat": 3.1809486,
+                "lng": 101.6904514
+              },
+              "html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJalan Sentul Indah\u003c/b\u003e",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "oklR}ktkRVCbAEHAJ?"
+              },
+              "start_location": {
+                "lat": 3.1815203,
+                "lng": 101.6903925
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "w`fR{dmkRy@kCXGFPd@rArAzEH`@@ZEl@WZWNYHSBuAQ}@[u@k@e@i@e@_A[_AIi@Aa@?a@Fc@V}@Vg@j@u@XOVIJCPMTSLUNs@BwBFsAN}BDqGF{@P}@N[b@e@f@YfC}@dAY?O?k@AKQUw@gAUYQm@c@g@k@o@o@k@gA}@sC_C]_@Ui@K_@Ge@GmBEWKSU[[e@aA}Dc@wAMi@Mu@E}@Bc@Lq@fAqBZo@b@iALs@@[Au@Ic@aAoCcAoCo@{A]w@AK[{@iB}Ei@cA{@mAg@g@i@[a@KWAQB]JUXIREV@TDPJRLLXLLBh@?x@Wj@WN@D@lAw@|HkEzDsBj@a@jAiAnEgFn@u@BI~AkBr@y@x@gAh@gAP_A@iAA[Ke@]y@W_@_@c@_As@{@g@G?GAw@UyA[k@Gi@?oAFaAJuFrAsA^s@T]DcAVaALoAF{@AeCSw@Gs@KgAW{@W{@Oq@Io@EiFWmAM}@SyAc@{Am@mA{@}@w@m@s@Yc@g@gAQo@G[@_@m@sCa@kAc@y@Y]{@w@o@_@y@Y_ASeAGgA?uFRcC@u@Ey@IuA_@mAc@k@YUQcA]q@Ss@Qc@K]?e@@c@Fe@LuEzBwAd@m@H{A@oAAO?q@JyBh@_APsALsAFaB?uAI{Ce@}Ac@cFkByAi@aBe@kD{A{Ay@kAi@}FcCsD{Ak@[_@WW[MWOgAGoASaCCSVClAGJ?"
+      },
+      "summary": "Jalan Semantan",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
